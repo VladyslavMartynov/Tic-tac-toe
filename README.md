@@ -1,1 +1,1 @@
-In order to run project use yarn dev!
+"Tic-tac-toe game" using React + Typescropt!
